@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.search-Filter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+/* table>tr>th{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+} */
